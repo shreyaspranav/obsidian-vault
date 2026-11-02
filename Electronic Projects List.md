@@ -1,0 +1,5 @@
+- BitBeat
+- Helmet intercom
+- Custom router baseboard for RPi CM5
+- Single board computer
+- Drone with video recording and AI capabilities

@@ -1,0 +1,9 @@
+- Full stack web developer
+    - Companies in cybersecurity space: Arctic Wolf, ZScaler, Palo Alto Networks, Sophos etc
+    - Payments: Stripe, Juspay, Visa
+    - Notable ones: Databricks, Google, Apple
+- System level developer
+    - NVIDIA, Intel, AMD, Qualcomm, RedHat, Nutanix, Cisco
+- Quantitative software engineer
+    - Jane Street, Citadel, HRT, Optiver, Jump trading
+- Startup founder
