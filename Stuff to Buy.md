@@ -1,12 +1,14 @@
 
 ### Tech Stuff
 
-| Item                      | Link | Price | Budget |
-| ------------------------- | ---- | ----- | ------ |
-| WiFi 6 AP + Aux AP        |      |       | 11000  |
-| Enterprise Managed Switch |      |       | 15000  |
-| GaN Charger               |      |       | 2000   |
-| Power Bank 20000mAh       |      |       |        |
+| Item                                  | Link | Price | Budget |
+| ------------------------------------- | ---- | ----- | ------ |
+| WiFi 6 AP + Aux AP                    |      |       | 11000  |
+| Enterprise Managed Switch             |      |       | 15000  |
+| NAS System (4 + 4TB, 8GB, 2CPU Cores) |      |       | 30000  |
+| Mini PC (6C/12T, 32GB, 1TB)           |      |       | 40000  |
+| GaN Charger                           |      |       | 2000   |
+| Power Bank 20000mAh                   |      |       | 2000   |
 
 ### Non Tech Stuff
 

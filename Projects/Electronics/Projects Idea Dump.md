@@ -1,5 +1,7 @@
 - BitBeat
+	- v1: A Music Player, v2: Extend the idea as a light gaming device
 - Helmet intercom
+	- CC1352P seems a very good fit
 - Custom router baseboard for RPi CM5
 - Single board computer
 - Drone with video recording and AI capabilities
