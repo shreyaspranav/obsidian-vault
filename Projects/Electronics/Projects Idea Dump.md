@@ -1,5 +1,6 @@
 - BitBeat
-	- v1: A Music Player, v2: Extend the idea as a light gaming device
+	- v1: A Simple MP3 Player
+	- v2: Extend the idea as a light gaming device
 - Helmet intercom
 	- CC1352P seems a very good fit
 - Custom router baseboard for RPi CM5
