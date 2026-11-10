@@ -1,5 +1,4 @@
 - Make the display and touch flip programmatic
-- Implement multisampled touch
 - Implement touch calibration
 - Implement FAT file system driver to read SD cards
 - Review ILI9341 driver code and how SPI works
