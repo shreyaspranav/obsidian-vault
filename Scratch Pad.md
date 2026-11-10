@@ -1,2 +1,3 @@
+- Implement a basic UI for the music player
 - Implement FAT file system driver to read SD cards
-- Review ILI9341 driver code and how SPI works
+- Implement a simple MP3 decoder
